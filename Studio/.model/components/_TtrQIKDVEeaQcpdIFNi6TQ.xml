@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:comp="http://virtubuil.com/schemas/comp.ecore" uuid="_TtrQIKDVEeaQcpdIFNi6TQ" name="Component">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_boM2sKDVEeaQcpdIFNi6TQ" name="Variable" visibility="800">
+    <domain uuid="_boM2saDVEeaQcpdIFNi6TQ" name="local" visibility="300">
+      <typeSet uuid="_boM2sqDVEeaQcpdIFNi6TQ" bitSet="393231"/>
+    </domain>
+  </variables>
+  <geometry deletable="false" uuid="_TtrQIaDVEeaQcpdIFNi6TQ" name="root">
+    <parentPlugs uuid="_TtrQIqDVEeaQcpdIFNi6TQ" name="ParentPlug"/>
+  </geometry>
+</comp:Component>
